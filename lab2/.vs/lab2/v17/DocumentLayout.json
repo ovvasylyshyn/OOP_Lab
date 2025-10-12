@@ -51,15 +51,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "lab2-1-2",
+              "Title": "lab2-1-2.csproj",
               "DocumentMoniker": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab2\\lab2-1-2\\lab2-1-2.csproj",
               "RelativeDocumentMoniker": "lab2-1-2\\lab2-1-2.csproj",
               "ToolTip": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab2\\lab2-1-2\\lab2-1-2.csproj",
               "RelativeToolTip": "lab2-1-2\\lab2-1-2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-12T08:45:48.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T08:45:48.236Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "lab2-2-2\\lab2-2-2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-06T17:45:34.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T17:45:34.645Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "ToolTip": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab2\\lab2-2-2\\MainWindow.xaml",
               "RelativeToolTip": "lab2-2-2\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-29T19:36:02.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T19:36:02.805Z"
             },
             {
               "$type": "Document",
@@ -109,8 +106,7 @@
               "RelativeToolTip": "lab2-2-2\\MainWindow.xaml.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T19:36:02.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T19:36:02.449Z"
             },
             {
               "$type": "Document",
@@ -122,8 +118,7 @@
               "RelativeToolTip": "lab2-2-1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T19:30:28.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T19:30:28.733Z"
             },
             {
               "$type": "Document",
@@ -146,8 +141,7 @@
               "RelativeToolTip": "lab2-1-2\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:37:12.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T18:37:12.851Z"
             },
             {
               "$type": "Document",
@@ -159,8 +153,7 @@
               "RelativeToolTip": "lab2-1-1\\Program.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T09:08:58.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T09:08:58.048Z"
             }
           ]
         }
