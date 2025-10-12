@@ -36,7 +36,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("Рівняння не має дійсних розв'язків.");
+            Console.WriteLine("Рівняння не має дійсних розв'язків");
         }
     }
 
@@ -51,7 +51,7 @@ class Program
             if (double.TryParse(input, out result))
                 return result;
             else
-                Console.WriteLine("Помилка! Введіть коректне число.");
+                Console.WriteLine("Помилка! Введіть коректне число");
         }
     }
 }
