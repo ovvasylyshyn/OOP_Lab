@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{593D35B7-B78A-42E0-B4EA-2604E7AA75A3}|lab3-3\\lab3-3.csproj|c:\\users\\fromv\\onedrive\\desktop\\oop\\lab3\\lab3-3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{593D35B7-B78A-42E0-B4EA-2604E7AA75A3}|lab3-3\\lab3-3.csproj|solutionrelative:lab3-3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{593D35B7-B78A-42E0-B4EA-2604E7AA75A3}|lab3-3\\lab3-3.csproj|c:\\users\\fromv\\onedrive\\desktop\\oop\\lab3\\lab3-3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{593D35B7-B78A-42E0-B4EA-2604E7AA75A3}|lab3-3\\lab3-3.csproj|solutionrelative:lab3-3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1271AF41-2526-48F8-9BB8-C984CEE4B048}|lab3-1\\lab3-1.csproj|c:\\users\\fromv\\onedrive\\desktop\\oop\\lab3\\lab3-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1271AF41-2526-48F8-9BB8-C984CEE4B048}|lab3-1\\lab3-1.csproj|solutionrelative:lab3-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23452F03-0A18-475D-A242-CF40BAA085F5}|lab3-2\\lab3-2.csproj|c:\\users\\fromv\\onedrive\\desktop\\oop\\lab3\\lab3-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23452F03-0A18-475D-A242-CF40BAA085F5}|lab3-2\\lab3-2.csproj|solutionrelative:lab3-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593D35B7-B78A-42E0-B4EA-2604E7AA75A3}|lab3-3\\lab3-3.csproj|c:\\users\\fromv\\onedrive\\desktop\\oop\\lab3\\lab3-3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593D35B7-B78A-42E0-B4EA-2604E7AA75A3}|lab3-3\\lab3-3.csproj|solutionrelative:lab3-3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593D35B7-B78A-42E0-B4EA-2604E7AA75A3}|lab3-3\\lab3-3.csproj|c:\\users\\fromv\\onedrive\\desktop\\oop\\lab3\\lab3-3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{593D35B7-B78A-42E0-B4EA-2604E7AA75A3}|lab3-3\\lab3-3.csproj|solutionrelative:lab3-3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab3\\lab3-3\\MainWindow.xaml",
               "RelativeDocumentMoniker": "lab3-3\\MainWindow.xaml",
@@ -42,20 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab3\\lab3-3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "lab3-3\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab3\\lab3-3\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "lab3-3\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAAB0AAAAAAAAAAIAwwCcAAAA1AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab3\\lab3-3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lab3-3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T16:05:33.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab3\\lab3-2\\Program.cs",
               "RelativeDocumentMoniker": "lab3-2\\Program.cs",
@@ -68,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab3\\lab3-1\\Program.cs",
               "RelativeDocumentMoniker": "lab3-1\\Program.cs",
               "ToolTip": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab3\\lab3-1\\Program.cs",
               "RelativeToolTip": "lab3-1\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T15:07:57.731Z",
               "EditorCaption": ""
