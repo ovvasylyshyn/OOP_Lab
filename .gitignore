@@ -1,0 +1,9 @@
+echo ".vs/
+bin/
+obj/
+*.suo
+*.user
+*.cache
+*.log
+*.vsidx
+" > .gitignore
