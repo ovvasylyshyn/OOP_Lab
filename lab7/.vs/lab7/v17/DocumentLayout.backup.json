@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC6F0ED-F879-4B6E-A3EA-66B5387F41BB}|lab7\\lab7.csproj|c:\\users\\fromv\\onedrive\\desktop\\oop\\lab7\\lab7\\zno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC6F0ED-F879-4B6E-A3EA-66B5387F41BB}|lab7\\lab7.csproj|solutionrelative:lab7\\zno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC6F0ED-F879-4B6E-A3EA-66B5387F41BB}|lab7\\lab7.csproj|c:\\users\\fromv\\onedrive\\desktop\\oop\\lab7\\lab7\\entrant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC6F0ED-F879-4B6E-A3EA-66B5387F41BB}|lab7\\lab7.csproj|solutionrelative:lab7\\entrant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64642F20-CC72-42AE-A572-581861124C7B}|EntrantApp\\EntrantApp.csproj|c:\\users\\fromv\\onedrive\\desktop\\oop\\lab7\\entrantapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64642F20-CC72-42AE-A572-581861124C7B}|EntrantApp\\EntrantApp.csproj|solutionrelative:entrantapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entrant.cs",
+              "DocumentMoniker": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab7\\lab7\\Entrant.cs",
+              "RelativeDocumentMoniker": "lab7\\Entrant.cs",
+              "ToolTip": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab7\\lab7\\Entrant.cs*",
+              "RelativeToolTip": "lab7\\Entrant.cs*",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T20:56:15.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZNO.cs",
+              "DocumentMoniker": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab7\\lab7\\ZNO.cs",
+              "RelativeDocumentMoniker": "lab7\\ZNO.cs",
+              "ToolTip": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab7\\lab7\\ZNO.cs",
+              "RelativeToolTip": "lab7\\ZNO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T20:55:57.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab7\\EntrantApp\\Program.cs",
+              "RelativeDocumentMoniker": "EntrantApp\\Program.cs",
+              "ToolTip": "C:\\Users\\fromv\\OneDrive\\Desktop\\OOP\\lab7\\EntrantApp\\Program.cs",
+              "RelativeToolTip": "EntrantApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T20:54:57.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
